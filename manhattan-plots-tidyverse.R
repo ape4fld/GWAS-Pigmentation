@@ -1,6 +1,6 @@
 # 04/2020
 
-# This script runs a function from external source ('ggmanhattan-function.R') to save a Manhattan plot using the Tidyverse package, taken from ________.
+# This script runs a function from external source ('ggmanhattan-function.R') to save a Manhattan plot using the Tidyverse package.
 
 # Input files are: 
       # 1) a list (single column, no header) of genome-wide significant SNPs to highlight in red.
